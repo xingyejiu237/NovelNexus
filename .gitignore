@@ -26,6 +26,13 @@ token_cost_history.json
 交接文档/
 《元构魔能》创意.md
 
+# 项目文档（旧版/个人向，非公开需要）
+使用指南.md
+智能体语言选择.md
+更新日志.md
+架构.md
+V3架构.md
+
 # 临时文件
 _temp_db_query.py
 *.pyc

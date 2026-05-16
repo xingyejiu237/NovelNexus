@@ -45,6 +45,7 @@ Thumbs.db
 # 小说数据（仅忽略元构魔能，保留 default 模板结构）
 novels/元构魔能/
 novels/元构魔能/output/
+novels/元构魔能/knowledge/
 novels/元构魔能/knowledge/snapshots/
 novels/元构魔能/knowledge/state.json
 novels/元构魔能/knowledge/discussion_log.json

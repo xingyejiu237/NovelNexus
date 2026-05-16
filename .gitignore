@@ -1,0 +1,46 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+
+# 环境变量（含真实 API key）
+.env
+
+# 开发环境
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# 个人费用记录
+token_cost_history.json
+
+# 个人笔记 & 灵感
+我自己的笔记/
+我的感悟.md
+我的方向建议.md
+写作规划归档.md
+会话归档/
+交接文档/
+《元构魔能》创意.md
+
+# 临时文件
+_temp_db_query.py
+*.pyc
+
+# 系统文件
+Thumbs.db
+.DS_Store
+.trae/
+
+# 小说数据（仅忽略元构魔能，保留 default 模板结构）
+novels/元构魔能/
+novels/元构魔能/output/
+novels/元构魔能/knowledge/snapshots/
+novels/元构魔能/knowledge/state.json
+novels/元构魔能/knowledge/discussion_log.json
+novels/元构魔能/knowledge/physical_details.json
+novels/元构魔能/knowledge/summaries.json
+novels/元构魔能/knowledge/style_progression.json

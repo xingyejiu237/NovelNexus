@@ -13,7 +13,7 @@
 ## 快速开始
 
 ```bash
-git clone https://github.com/yourname/NovelNexus.git
+git clone https://github.com/xingyejiu237/NovelNexus.git
 cd NovelNexus_V3
 
 pip install -r requirements.txt
